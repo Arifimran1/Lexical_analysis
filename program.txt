@@ -1,0 +1,16 @@
+int main ( )
+{
+	1year ///hii
+	int a , b , c ;
+	a = b + c ;
+	float bc ;
+	bc = 12 ;
+	bc ++ ; /*hello
+	int *abd ;*/
+	printf ( "nice!!" ) ; //hi//abc///def
+        //shuvo&arif
+	return 0 ;
+        
+        
+	
+}

@@ -1,0 +1,10 @@
+int main()	
+{
+	if(a>=b)
+	a+=a;
+	inta,b,c;//hhhhhhhhhssss
+	a=a+b;
+	c++;
+	printf("hi");
+	return 0;//hi hellpppppp
+}

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1509436878 source:d:\a study\programs\lex_new\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<stdio.h>
+	"lexical.h"
+
+1509434675 source:d:\a study\programs\lex_new\lexical.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"lexical.h"
+
+1508743275 d:\a study\programs\lex_new\lexical.h
+	<bits/stdc++.h>
+
